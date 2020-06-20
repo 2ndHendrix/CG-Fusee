@@ -1,0 +1,4 @@
+C:\Users\2ndHe\Documents\GitHub\MyFirstFuseeApp\obj\Debug\MyFirstFuseeApp.csprojAssemblyReference.cache
+C:\Users\2ndHe\Documents\GitHub\MyFirstFuseeApp\obj\Debug\MyFirstFuseeApp.AssemblyInfoInputs.cache
+C:\Users\2ndHe\Documents\GitHub\MyFirstFuseeApp\obj\Debug\MyFirstFuseeApp.AssemblyInfo.cs
+C:\Users\2ndHe\Documents\GitHub\MyFirstFuseeApp\obj\Debug\MyFirstFuseeApp.csproj.CoreCompileInputs.cache
